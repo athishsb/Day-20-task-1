@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(189, 238, 238);
+}
+
+#img {
+    width: 30rem;
+    height: 15rem;
+}
+
+#maincard {
+    box-shadow: 5px 5px 15px black, -5px -5px 15px black;
+    margin: 1rem 0;
+}
+
+#main {
+    background-color: rgb(189, 238, 238);
+}
+
+body {
+    background-color: rgb(189, 238, 238);
+}
+.heading {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.title {
+    font-size: 36px; 
+    font-weight: bold;
+    color: #343a40; 
+}
+
+#description {
+    font-size: 20px; 
+    margin-top: 10px;
+    color: #495057; 
+}
